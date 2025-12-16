@@ -3,5 +3,3 @@ python-dotenv
 duckduckgo-search
 streamlit
 google-generativeai
-
-
